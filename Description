@@ -1,0 +1,3 @@
+  This program functions to have data for a specific izotope from 2 different options. It then calculates the radioactive decay
+and with matplot will provide a graph. I also applied an option to allow the user to output the text at a slower or faster rate
+than python normally outputs.
